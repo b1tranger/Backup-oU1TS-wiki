@@ -38,6 +38,7 @@
     <a href="https://github.com/FahimHossain1085">visit</a>
     <ul>
       <li>CSE208-IP-Lab: <a href="https://github.com/oU1TS/php-project">Project</a> (forked from <a href="https://github.com/FahimHossain1085/php-project">source</a>) &rarr; <a href="https://codecraftstudios.great-site.net/">Website</a></li>
+<li>CSE0613124-WAD-Lab: <a href="https://github.com/FahimHossain1085/web-application-design-project">Project</a> &rarr; <a href="https://fahimhossain1085.github.io/web-application-design-project/">Website</a></li>
     </ul>
   </details>
 
