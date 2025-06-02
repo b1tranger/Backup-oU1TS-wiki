@@ -16,6 +16,22 @@ Welcome to the oUITS wiki! Here we will be indexing our Repositories based on th
 # Project Records
 
 <details>
+  <summary>Batch 55</summary>
+
+&nbsp;
+<details>
+    <summary>0432410005101088</summary>
+     <ul>
+      <li>CSE0612223-DSA-1-Lab: <a href="https://github.com/b1tranger/DSA-project">Project</a></li>
+      <li>CSE0613124-WAD-Lab: <a href="https://github.com/b1tranger/oUITS-Scheduler-offline">Project</a> &rarr; <a href="https://b1tranger.github.io/oUITS-Scheduler-offline/">Website</a></li>
+    </ul>
+      
+  </details>
+
+</details>
+
+
+<details>
   <summary>Batch 54</summary>
 
 &nbsp;
