@@ -14,7 +14,7 @@ Welcome to the oUITS wiki! Here we will be indexing our Repositories based on th
 <details>
   <summary>Batch 54</summary>
 
-  &nbsp;<details>
+<details>
     <summary>0432320005101064</summary>
 
     
