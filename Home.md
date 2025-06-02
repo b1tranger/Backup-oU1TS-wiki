@@ -14,16 +14,14 @@ Welcome to the oUITS wiki! Here we will be indexing our Repositories based on th
 <details>
   <summary>Batch 54</summary>
 
-<details>
+  <details>
     <summary>0432320005101064</summary>
 
-    
-        CSE208-IP-Lab: [Project](https://github.com/shoytanbaba99/The-Begging-From-The-Beginning) | [Mod](https://github.com/cristal-node/The-Begging-From-The-Beginning) &rarr; [Website](https://begging.cristal-node.workers.dev/welcome.html) |
-      
-
-      &nbsp;
-
-    
+    <p>
+      CSE208-IP-Lab: <a href="https://github.com/shoytanbaba99/The-Begging-From-The-Beginning">Project</a> |
+      <a href="https://github.com/cristal-node/The-Begging-From-The-Beginning">Mod</a> →
+      <a href="https://begging.cristal-node.workers.dev/welcome.html">Website</a>
+    </p>
 
   </details>
 
