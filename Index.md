@@ -18,7 +18,8 @@
 <details>
   <summary>Batch 55</summary>
 <details>
-    <summary><a href="https://github.com/b1tranger">0432410005101088</a></summary>
+    <summary>0432410005101088</a></summary>
+<a href="https://github.com/b1tranger">visit</a> 
      <ul>
       <li>CSE0612223-DSA-1-Lab: <a href="https://github.com/b1tranger/DSA-project">Project</a></li>
       <li>CSE0613124-WAD-Lab: <a href="https://github.com/b1tranger/oUITS-Scheduler-offline">Project</a> &rarr; <a href="https://b1tranger.github.io/oUITS-Scheduler-offline/">Website</a></li>
@@ -32,7 +33,8 @@
 <details>
   <summary>Batch 54</summary>
 <details>
-    <summary><a href="https://github.com/shoytanbaba99">0432320005101064</a></summary>
+    <summary>0432320005101064</a></summary>
+<a href="https://github.com/shoytanbaba99">visit</a>
      <ul>
       <li>CSE208-IP-Lab: <a href="https://github.com/shoytanbaba99/The-Begging-From-The-Beginning">Project</a> + <a href="https://github.com/cristal-node/The-Begging-From-The-Beginning">Mod</a> → <a href="https://begging.cristal-node.workers.dev/welcome.html">Website</a></li>
       <li>CSE252-DSA-2-Lab: </a></li>
