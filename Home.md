@@ -16,7 +16,7 @@ Welcome to the oUITS wiki! Here we will be indexing our Repositories based on th
 
 <details>
     <summary>0432320005101064</summary>
-
+<p> CSE208-IP-Lab: <a href="https://github.com/shoytanbaba99/The-Begging-From-The-Beginning">Project</a></p>
     
         CSE208-IP-Lab: [Project](https://github.com/shoytanbaba99/The-Begging-From-The-Beginning) | [Mod](https://github.com/cristal-node/The-Begging-From-The-Beginning) &rarr; [Website](https://begging.cristal-node.workers.dev/welcome.html) |
       
