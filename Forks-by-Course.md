@@ -1,6 +1,6 @@
 [go home](https://github.com/oU1TS/.github/wiki)
 
-in this page, we track and organize forks of other projects. Essentially all repositories here are forked from outside but we intend to ease things up by more organization (⁠๑⁠•⁠﹏⁠•⁠)
+in this page, we track and organize forks owned my oU1TS. Essentially all repositories here have been forked from outside but we intend to ease things up by more organization (⁠๑⁠•⁠﹏⁠•⁠)
 
 <details>
 <summary>CSE208-IP-Lab</summary>
