@@ -10,41 +10,24 @@ Welcome to the oUITS wiki! Here we will be indexing our Repositories based on th
 - [CSE208-IP-Lab](https://github.com/oU1TS/CSE208-IP-Lab)
 
 # Project Records
-<details>
-<summary>Batch 54<summary>
-<details> 
-<summary>0432320005101064</summary>
-<details>
-<summary>CSE208-IP-Lab: [Project](https://github.com/shoytanbaba99/The-Begging-From-The-Beginning) + [Mod](https://github.com/cristal-node/The-Begging-From-The-Beginning) &rarr; [Website](https://begging.cristal-node.workers.dev/welcome.html)
-</details>
-</details>
-</details>
 
 <details>
-  <summary>🔹 Parent Section</summary>
-
-  Some introduction or summary content.
+  <summary>Batch 54</summary>
 
   <details>
-    <summary>🔸 Child Section 1</summary>
+    <summary>0432320005101064</summary>
 
-    This is the content inside the first nested dropdown.
+    <details>
+      <summary>
+        CSE208-IP-Lab: 
+        <a href="https://github.com/shoytanbaba99/The-Begging-From-The-Beginning">Project</a> + 
+        <a href="https://github.com/cristal-node/The-Begging-From-The-Beginning">Mod</a> →
+        <a href="https://begging.cristal-node.workers.dev/welcome.html">Website</a>
+      </summary>
 
-    ```js
-    console.log("Nested section 1");
-    ```
+      &nbsp;
 
-  </details>
-
-  <details>
-    <summary>🔸 Child Section 2</summary>
-
-    This is the content inside the second nested dropdown.
-
-    ```python
-    def nested():
-        return "Section 2"
-    ```
+    </details>
 
   </details>
 
