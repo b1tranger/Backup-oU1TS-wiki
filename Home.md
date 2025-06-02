@@ -19,3 +19,33 @@ Welcome to the oUITS wiki! Here we will be indexing our Repositories based on th
 </details>
 </details>
 </details>
+
+<details>
+  <summary>🔹 Parent Section</summary>
+
+  Some introduction or summary content.
+
+  <details>
+    <summary>🔸 Child Section 1</summary>
+
+    This is the content inside the first nested dropdown.
+
+    ```js
+    console.log("Nested section 1");
+    ```
+
+  </details>
+
+  <details>
+    <summary>🔸 Child Section 2</summary>
+
+    This is the content inside the second nested dropdown.
+
+    ```python
+    def nested():
+        return "Section 2"
+    ```
+
+  </details>
+
+</details>
