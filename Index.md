@@ -57,3 +57,15 @@
 
 </details>
 
+<details>
+  <summary>Batch 52</summary>
+<details>
+    <summary>0432220005101061</summary>
+<a href="https://github.com/AkibReza">visit</a> 
+     <ul>
+      <li>CSE356-Software-Engineering-SESA: <a href="https://github.com/AkibReza/TerraNova">Project</a> &rarr; <a href="http://TerraNovaAI.netlify.app">Website</a></li>
+    </ul>
+      
+  </details>
+
+</details>
