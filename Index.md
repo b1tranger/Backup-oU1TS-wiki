@@ -1,4 +1,4 @@
-Welcome to the oUITS wiki! Here we will be indexing our Repositories based on their categories/purpose.
+
 
 ***
 
