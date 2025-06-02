@@ -16,9 +16,9 @@ Welcome to the oUITS wiki! Here we will be indexing our Repositories based on th
 
 <details>
     <summary>0432320005101064</summary>
-
+<p> CSE208-IP-Lab: <a href="https://github.com/shoytanbaba99/The-Begging-From-The-Beginning">Project</a></p>
      <ul>
-      <li><p> CSE208-IP-Lab: <a href="https://github.com/shoytanbaba99/The-Begging-From-The-Beginning">Project</a></p></li>
+      <li><a href="https://github.com/shoytanbaba99/The-Begging-From-The-Beginning">Project</a></li>
       <li>CSE252-DSA-2-Lab: </a></li>
     </ul>
         
