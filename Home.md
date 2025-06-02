@@ -17,8 +17,11 @@ Welcome to the oUITS wiki! Here we will be indexing our Repositories based on th
 <details>
     <summary>0432320005101064</summary>
 <p> CSE208-IP-Lab: <a href="https://github.com/shoytanbaba99/The-Begging-From-The-Beginning">Project</a></p>
-    
-        CSE208-IP-Lab: [Project](https://github.com/shoytanbaba99/The-Begging-From-The-Beginning) | [Mod](https://github.com/cristal-node/The-Begging-From-The-Beginning) &rarr; [Website](https://begging.cristal-node.workers.dev/welcome.html) |
+     <ul>
+      <li>CSE208-IP-Lab: [Project](https://github.com/shoytanbaba99/The-Begging-From-The-Beginning) | [Mod](https://github.com/cristal-node/The-Begging-From-The-Beginning) &rarr; [Website](https://begging.cristal-node.workers.dev/welcome.html) </li>
+      <li>CSE252-DSA-2-Lab: </a></li>
+    </ul>
+        
       
 
       &nbsp;
@@ -29,30 +32,3 @@ Welcome to the oUITS wiki! Here we will be indexing our Repositories based on th
 
 </details>
 
-
-<details>
-  <summary>Main Dropdown Item 1</summary>
-  <p>Content for Main Dropdown Item 1. This can be text, links, or even more Markdown content.</p>
-
-  <details>
-    <summary>Nested Dropdown Item 1.1</summary>
-    <ul>
-      <li><a href="#">Link to Sub-Item 1.1.1</a></li>
-      <li><a href="#">Link to Sub-Item 1.1.2</a></li>
-    </ul>
-    <p>More detailed info for Nested Dropdown Item 1.1.</p>
-  </details>
-
-  <details>
-    <summary>Nested Dropdown Item 1.2</summary>
-    <p>Content for Nested Dropdown Item 1.2.</p>
-  </details>
-</details>
-
-<details>
-  <summary>Main Dropdown Item 2</summary>
-  <ul>
-    <li><a href="#">Link to Main Item 2.1</a></li>
-    <li><a href="#">Link to Main Item 2.2</a></li>
-  </ul>
-</details>
