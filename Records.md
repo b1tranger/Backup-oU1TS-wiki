@@ -16,7 +16,7 @@
 # Project Records
 
 <details>
-  <summary>## Batch 55</summary>
+  <summary>Batch 55</summary>
 
   <details>
     <summary>0432410005101088</summary>
