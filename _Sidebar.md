@@ -3,9 +3,9 @@
 
 [Forks by Course](Forks-by-Course)
 
-## Records
+### [Records](https://github.com/oU1TS/.github/wiki/Records)
 - [Course Records](Course-Records)
 - [Project Records](Project-Records)
 
-## SSR Projects
+### [SSR Projects](https://github.com/oU1TS/.github/wiki/SSR-Projects)
 - [Student Support Repositories](Student-Support-Repositories)
