@@ -1,4 +1,4 @@
-oU!TS [website](https://ou1ts.github.io/.github/) / [Repository](https://github.com/oU1TS/.github)
+oU1TS [website](https://ou1ts.github.io/.github/) / [Repository](https://github.com/oU1TS/.github)
 ### Wiki Contents
 [Home](https://github.com/oU1TS/.github/wiki)
 
