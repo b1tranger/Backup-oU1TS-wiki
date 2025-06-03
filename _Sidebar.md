@@ -1,5 +1,4 @@
-# Pages
-
+### Contents
 [Home](Home)
 
 [Forks by Course](Forks-by-Course)
