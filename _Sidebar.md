@@ -1,4 +1,6 @@
-oU1TS [website](https://ou1ts.github.io/.github/) / [Repository](https://github.com/oU1TS/.github)
+oU1TS [Home](https://ou1ts.github.io/) / [Wiki](https://ou1ts.github.io/wiki.html)
+
+Join the Organization by filling out this [form](https://forms.gle/treGsBbsE3UTFUos9)
 ### Wiki Contents
 [Home](https://github.com/oU1TS/.github/wiki)
 
