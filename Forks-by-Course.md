@@ -16,3 +16,14 @@ in this page, we track and organize forks owned by oU1TS. Essentially all reposi
 <li><a href="https://github.com/oU1TS/DSA-project-55-3B-088"> DSA-project-55-3B-088</a> &larr; <a href="https://github.com/b1tranger">0432410005101088</a></li>
 </ul>
 </details>
+
+<details>
+                <summary>CHEM0531175-Chemistry</summary>
+                <div class="mt-4 pl-4 border-l border-zinc-700">
+                    <ul>
+                        <li><a href="https://github.com/oU1TS/uitsBOT"
+                                class="text-blue-400 hover:text-blue-300 transition duration-200 ease-in-out">uitsBOT</a> (???)
+                        </li>
+                    </ul>
+                </div>
+            </details>
